@@ -9,7 +9,10 @@ _by Hector Marin_
 
 ---
 ## Initial Setup
-* 
+* sign into github or create a new github account
+* click on profile in the top right
+* go to settings
+* go to SSH and GPG keys tab
 
 ---
 ## Repository Setup
