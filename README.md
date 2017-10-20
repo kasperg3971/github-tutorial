@@ -6,6 +6,7 @@ _by Hector Marin_
 ## Git vs. GitHub
 * Git is a code language
 * Github is a website to store code and work
+* Git is a language we use for github
 
 
 ---
@@ -33,6 +34,10 @@ _by Hector Marin_
 8. ```git commit -m"message"``` takes a "snapshot" of the code
 9. ```git add .``` adds all files
 10. ```git status``` checks to see if a file has been added:red means no, green means yes.
+11. ```ls``` lists the directories you went into
+12. ``` ` ``` That is a tilda, it cand bring you back to the root
+13. ```cd ..``` moves up a folder from where you entered
+14. 
 
 ---
 ## Rolling Back Changes
