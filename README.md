@@ -29,7 +29,10 @@ _by Hector Marin_
 4. ```rmdir [name]```remove an empty directory
 5. ```rm rf dir [name]```removes a directory full or not
 6. ```mv [name] [NewName]```rename a file to something else
-
+7. ```git push``` sends the changes to github
+8. ```git commit -m"message"``` takes a "snapshot" of the code
+9. ```git add .``` adds all files
+10. ```git status``` checks to see if a file has been added:red means no, green means yes.
 
 ---
 ## Rolling Back Changes
