@@ -8,12 +8,13 @@
     * example:` git init`
 * Github is a repository where you have all your files and directory
 
-
-
 ---
 ## Initial Setup
-
-
+* sign into github or create a new github account
+* click on profile in the top right
+* go to settings
+* go to SSH and GPG keys tab
+* 
 
 <p align = "center">
   <img src = "Capture.PNG" width="500" height="377">
@@ -132,10 +133,3 @@ This section will explain the foundations of undoing git commands
 * `git reset HEAD~1` : undoes the last commit and unstages the file
 * `git reset --hard HEAD~1` : undoes a commit, unstages the file and deletes all the changes
 * `git reset –hard HEAD~` : undoes a pushed commit
-
-
-
-
-
-
-
