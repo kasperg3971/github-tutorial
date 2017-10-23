@@ -10,11 +10,6 @@
 
 ---
 ## Initial Setup
-* sign into github or create a new github account
-* click on profile in the top right
-* go to settings
-* go to SSH and GPG keys tab
-* 
 
 <p align = "center">
   <img src = "Capture.PNG" width="500" height="377">
@@ -117,7 +112,7 @@ To github.com:kasperg3971/github-tutorial.git
 *  `git add origin URL` :  A command of making a connection between our two repositories  and adding a repo and have its origin and having a location
 *  `git push -u origin master` : Sending commits into remote repo with a upstream to the main branch
 *  `git log` : Shows a listing of commits on a branch including the corresponding details
-*  `Git pull` :
+*  `Git pull` : pulls back to the remote repository
 
 
 
