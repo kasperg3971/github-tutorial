@@ -37,7 +37,6 @@ _by Hector Marin_
 11. ```ls``` lists the directories you went into
 12. ``` ` ``` That is a tilda, it cand bring you back to the root
 13. ```cd ..``` moves up a folder from where you entered
-14. 
 
 ---
 ## Rolling Back Changes
