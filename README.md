@@ -112,7 +112,13 @@ To github.com:kasperg3971/github-tutorial.git
 *  `clear` : saves data but clears canvas
 *  `(control C)` & ` (control D)`: Control c creates a new line for you to type on while control d puts the local host in front of the local host
 *  `↑` : Goes to your previous commands
-*  
+*  `git add --all` : adds all files new ones, old ones, and deleted ones
+*  `git add origin URL` :  A command of making a connection between our two repositories  and adding a repo and have its origin and having a location
+*  `git push -u origin master` : Sending commits into remote repo with a upstream to the main branch
+*  `git log` : Shows a listing of commits on a branch including the corresponding details
+*  `Git pull` :
+
+
 
 
 
@@ -126,6 +132,8 @@ This section will explain the foundations of undoing git commands
 * `git reset HEAD~1` : undoes the last commit and unstages the file
 * `git reset --hard HEAD~1` : undoes a commit, unstages the file and deletes all the changes
 * `git reset –hard HEAD~` : undoes a pushed commit
+
+
 
 
 
