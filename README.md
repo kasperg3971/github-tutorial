@@ -19,6 +19,24 @@
   <img src = "Capture.PNG" width="500" height="377">
 </p>
 
+1. to sign up to github enter info in the above and press the sign up button.
+
+<p align = "center">
+   <img src = "workspace.png" width = "500" height = "377">
+</p>
+2. create a workspace by clicking the workspace option and fill in the info shown above.
+
+<p align = "center">
+   <img src = "hey.png" width = "500" height = "377">
+</p>
+
+3. create an ssh key by clicking settings >> ssh keys. Then copy the second piece of ssh keys. an example of it looks like this:
+
+`ssh-rsa AAAABgitready2EAAAADAbuellerAQC7X4buellerU99Yev3hbHQTlDXaFC2uJsAD4R58Qo7IAtNv+KsyKspI5C/SwoCiK2UVkfTKtqPvCnA2tGMPAVeMayvihSeDLbadQ7pjhkRuOV3CjM0dTxAq2yA3Y1D0PY7EOnV0BeM9RjsZyr61QAeJEvdcC/o3vaJ8dmWdNvix39jUtk8BPEqwid0N1GH2YJFDpAR9Pg9glJt13fzHdZrHiKHT5VMGkURELeUdtvaHa0/sxV99QrOGIDMb1q5pmNbWRN50TWgvbluQmM5MJZAkxFopAJBqcl6owVGC52xaGZj5D2mqLmGIfUEtZ48Dfh/QpksG+UZk30dN8/y+LixbYFM1BHTOcfkv32gXhJHNQkXrdUBDT783rmGkl2I7mA7OSiZp8Ltpkvb5eW8rH8Jmg8Ji4FCJI2/b5+wigeELb66TD/0hFptxH6GM/6+kXVE9qc+2NF5AImtF1sD0Drz8yw6bqdhr1Tk+3GmfGiFSMeU7QM38TAjeSI6oxEDzf6i1k81CiI0TWZqOIYTm4C0v/DCd1iqz2rn0EIIuIhwlIaoa3q8pALDIT53+vzfwY3OZIhWsCOrbSshwAo0upKIcsd/hisamaQOQxcyJytvpDtvIXksEbQC6JadLP7hCa/XFcoDlqpgs3TIhi+m87IoXH4sr4m22u7iU4o0MIyw== fbueller1986@GBNHS.org`
+
+4. Your done
+
+
 ---
 ## Repository Setup
 ```html
@@ -102,4 +120,14 @@ To github.com:kasperg3971/github-tutorial.git
 ---
 ## Rolling Back Changes
 This section will explain the foundations of undoing git commands
-* 
+* `git checkout -- filename` : undoes a edit
+* `git reset HEAD filename` : undoes add
+* `git reset --soft HEAD~1` : undoes a commit
+* `git reset HEAD~1` : undoes the last commit and unstages the file
+* `git reset --hard HEAD~1` : undoes a commit, unstages the file and deletes all the changes
+* `git reset –hard HEAD~` : undoes a pushed commit
+
+
+
+
+
