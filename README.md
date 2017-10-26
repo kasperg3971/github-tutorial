@@ -11,20 +11,15 @@
 ---
 ## Initial Setup
 
-<p align = "center">
-  <img src = "Capture.PNG" width="500" height="377">
-</p>
+![hi](https://raw.githubusercontent.com/kasperg3971/github-tutorial/master/Capture.PNG)
 
 1. to sign up to github enter info in the above and press the sign up button.
 
-<p align = "center">
-   <img src = "workspace.png" width = "500" height = "377">
-</p>
+![hi](https://github.com/Jeffreyg2240/github-tutorial-2/blob/master/workspace.png)
+
 2. create a workspace by clicking the workspace option and fill in the info shown above.
 
-<p align = "center">
-   <img src = "hey.png" width = "500" height = "377">
-</p>
+1[hi](https://github.com/kasperg3971/github-tutorial/blob/master/hey.png)
 
 3. create an ssh key by clicking settings >> ssh keys. Then copy the second piece of ssh keys. an example of it looks like this:
 
